@@ -1,5 +1,5 @@
 # m22-2-chickens
-project idea: We are going to provide a website of service that will rate news sources, find fake news, and help people watch out for uncredible or fake news
+() project idea: We are going to provide a website of service that will rate news sources, find fake news, and help people watch out for uncredible or fake news
 ## Journals
 - [Shekar + Chris](https://docs.google.com/document/d/15Ekpi-FsKLaUle2gp-GgvUfvluW4ak22zdcleXAWpAk/edit?usp=sharing)
 - [Sam + Dylan](https://docs.google.com/document/d/1ocjpNegp6Q31gx7DX-1zUqktbTq_CuCo9r2nHG0IQWY/edit?usp=sharing)
