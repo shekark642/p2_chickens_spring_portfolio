@@ -1,28 +1,21 @@
-## TBD [Spring Portfolio Starter](https://nighthawkcodingsociety.com/projectsearch/details/Spring%20Portfolio%20Starter)
-Runtime link: TBD https://jportfolio.nighthawkcodingsociety.com/
-
-
-
-## Visual thoughts
-#### * Starter code should be fun and practical
-#### * Organize with Bootstrap menu 
-#### * Add some color and fun through VANTA Visuals (birds, halo, solar, net)
-#### * Show some practical and fun links (hrefs) like Twitter, Git, Youtube
-#### * Show student project specific links (hrefs) per page
-#### * Show student TPT ideas
-#### * Show student About me pages
-
-
-
-## Getting started
-#### * Clone project to IntelliJ
-#### * Verify Project Structure to use a good Java JDK (adopt-openJ9-15) 
-#### * Play or entry point is Main.java, look for play option in tray.  This file eanbles Spring to load
-#### * Java source (src/main/java) had Java files.  Find "controllers" path, these files enable HTTP route and HTML file relationship.  Note, html 
-#### * HTML source (src/main/resources) had templates and supporting files.  Find index.html as this file is launched by defaul in Spring.  Other HTML files are loaded by building a "@Controller"
-
-
-
-## IDE management
-#### * A ".gitignore" can teach a Developer a lot about Java runtime.  A target directory is created when you press play button, byte code is generated and files are moved into this location.
-#### * A "pom.xml" file can teach you a lot about Java dependencies.  This is similar to "requirements.txt" file in Python.  It manages packages and dependencies.
+# m22-2-chickens
+## Journals
+- [Shekar + Chris](https://docs.google.com/document/d/15Ekpi-FsKLaUle2gp-GgvUfvluW4ak22zdcleXAWpAk/edit?usp=sharing)
+- [Sam + Dylan](https://docs.google.com/document/d/1ocjpNegp6Q31gx7DX-1zUqktbTq_CuCo9r2nHG0IQWY/edit?usp=sharing)
+## Team Check 0
+#### Tech Talk 0 Tools and Equipment
+- Github created [here](https://github.com/zenxha/m22-2-blackpink-but-specifically-Rose) with HTML, CSS, and Java for the website
+- Slack channel created [here](https://app.slack.com/client/TRDESSQ3T/C02BND7QA9K)
+#### Tech Talk 0.1 Vision, Student Leadership
+- Project vision: Month improvment calendar placed in November
+- Formed crossover group with Calvin the Carry
+- Scrum leader: Chris
+#### Tech Talk 0.2 Project Deliverables starting with Collaboration, Design
+- Slack channel created for communication between members and teacher [here](https://app.slack.com/client/TRDESSQ3T/C02BND7QA9K)
+#### Tech Talk 0.3 Sprint Schedule, Scrum Board
+- Scrum Board [here](https://github.com/shekark642/p2_chickens_spring_portfolio/projects/5), with columns for each section of the development process
+- Schedule is monday for planning tickets on scrum board, rest of the week is for completing the tickets created on scrum board
+#### Tech Talk 0.4 Tangible Artifacts, aka Code
+- Utlize embeds for easy access to tangible artifacts for teacher
+#### Tech Talk 0.5 Digital Journal
+- Created group google document [here](https://docs.google.com/document/d/1noRsxwbVg4w50bVpvR-yOKXv5uiyxQk3r0zaAEO_qEs/edit?usp=sharing) for class notes
