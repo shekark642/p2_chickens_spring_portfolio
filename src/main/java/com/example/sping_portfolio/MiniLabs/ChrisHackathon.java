@@ -1,4 +1,4 @@
-package com.example.sping_portfolio.Minilabs;
+package com.example.sping_portfolio.MiniLabs;
 
 
 public class ChrisHackathon {
